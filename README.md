@@ -20,6 +20,7 @@ Para ejecutar los scripts de este proyecto, necesitarás:
 
 - Credenciales Azure.
 - Credenciales de API de Azure OpenAI.
+- Acceso a modelo GPT-4 de OpenAI.
 - Utilizar Python 3.10+.
 - Instalar las bibliotecas de Python 
 
