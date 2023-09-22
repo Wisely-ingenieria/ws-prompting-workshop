@@ -1,0 +1,58 @@
+[
+    {
+        "question": "RUT : 76.058.647-1 Nº 4112104 FACTURA ELECTRONICA S.I.I. - SANTIAGO ORIENTE Timbre Electrónico SII Res. 210 del 2009. Verifique documento: www.sii.cl DETALLE CUENTA Descripción Período Consumo Cantidad P. Unitario Total DOCUMENTOS REFERENCIADOS Monto Neto IVA $ 38.987 $ 7.407 Exento $ 0 Total $ 46.394 COMUNICACIONES CUPÓN DE PAGO Folio Interno 9873757 N° Contrato 1557061 N° Documento 4112104 01-08-2020 $ 46.394 Saldo Anterior 0 Fecha Emisión Total Documento Total a pagar $ 46.394 MONITOREO AMORTIZACION INSTALACION 01/08/2020 - 31/08/2020 1 38.986 38.986 REDONDEOS DECIMALES 1 FOLIO FECHA MOTIVO INFORMACIÓN CLIENTE Nombre WISELY SPA Rut 76747588-8 Giro EMPRESAS DE SERVICIOS INTEGRALES DE INFO Direccion ANTONIO VARAS 1635 DEPTO Comuna PROVIDENCIA Ciudad SANTIAGO Total a Pagar : $ 46.394 Vence : 10-08-2020 TIPO DE DOCUMENTO 000007500000 21252FC01557061000987375720200810000046394 Casa Matriz: Giro : SERVICIOS INTEGRALES DE SEGURIDAD CALLE ENRIQUE FOSTER SUR 020, OFICINA 301, LAS CONDES N° Contrato : 1557061 Fecha de Emisión : 01-08-2020 Folio Interno : 9873757",
+        "ground_truth": {
+            "Invoice Number": "4112104",
+            "Invoice Date": "2020-08-01",
+            "Due Date": "2020-08-10",
+            "Total Amount": "$46.394,00",
+            "Tax Amount (IVA)": "$7.407,00",
+            "Recipient Name": "WISELY SPA",
+            "Recipient Tax Number (RUT)": "76.747.588-8",
+            "Sender Name": "SERVICIOS INTEGRALES DE SEGURIDAD",
+            "Sender Tax Number (RUT)": "76.058.647-1"
+        }
+    },
+    {
+        "question": "R.U.T.: 99.524.110-2 FACTURA ELECTRÓNICA Nº 38428 S.I.I. - SANTIAGO PONIENTE Cliente R.U.T. Giro Dirección Comuna Ciudad Contacto : : : : : : : WISELY SPA 76.747.588-8 ACTIVIDADES DE CONSULTORIA DE INFORMATIC Antonio Varas 1635/ Oficina 602, Providencia Providencia Emitido Vence Pago TC OC LOL : : : : : 05-AGO-2020 05-AGO-2020 773.00000000 MCP-STD-440813_1 Código Detalle Cantidad Unid. P. Unitario Total  MCPAAA-06626 Office 365 Business Premium 6 U 8.310 49.860  Documento Ref. Folio Fecha Razón Ref. Monto Neto $ 49.860  Monto I.V.A. (19%) 9.473  Monto Total $ 59.333  Observación: Tenant: Wisely IoT/Mes de uso Agosto 2020/ Timbre Electrónico SII Res. 20 del 2013 Verifique documento: www.sii.cl Solución de Factura Electrónica de: www.acepta.com",
+        "ground_truth": {
+            "Invoice Number": "38428",
+            "Invoice Date": "2020-08-05",
+            "Due Date": "2020-08-05",
+            "Total Amount": "$59.333,00",
+            "Tax Amount (IVA)": "$9.473,00",
+            "Recipient Name": "WISELY SPA",
+            "Recipient Tax Number (RUT)": "76.747.588-8",
+            "Sender Name": "",
+            "Sender Tax Number (RUT)": "99.524.110-2"
+        }
+    },
+    {
+        "question": "FACTURA ELECTRONICA R.U.T.: 86.966.100-7 Nº: 2006377 CIUDAD SANTIAGO R.U.T. GIRO EMPRESAS DE SERVICIOS INTEGRALES DE INFO DIRECCIÓN ANTONIO VARAS 1635 - SANTIAGO SRES DE WISELY SPA 09/08/2020 76.747.588-8 S.I.I. - SANTIAGO CENTRO 09/08/2020 CONTACTO TELEFONO CUENTA Nº INTERNO Fecha de Documento Fecha de Vencimiento WISELY SPA 99166972 TIPO DOCUMENTO NRO REFERENCIA FECHA MOTIVO *DEFV-2006377* DEFV-2006377 Información Adicional DHL EXPRESS (CHILE) LTDA Giro: Servicio Internacional de Transporte de Documentos, Carga Aérea y Almacenamiento. Casa Matriz: Rio Itata 9651, parque ENEA, Pudahuel Teléfono: (56-2) 2666 2050 Sitio Web: www.dhl.com Descripción Otros Cargos Importe Exento Importe Neto Servicio Afecto 18.084 Servicio No Facturable 25.303 AWB: 1882287934 COP / SCL 0.6 PAQUETE EXPRESS Tel. 800 800 345 Contáctenos Teléfono: (56-2) 2666 2050 E-mail: cliente.cl@dhl.com Si no está suscrito a la Facturación Electrónica, envienos un email a cl.facturacion.electronica@dhl.com. Factura Electrónica Sucursales Regiones Iquique Bolivar 239 Valparaiso Chacabuco 2384 Concepción Lautaro 2023 Timbre Electrónico SII Resolución 61 del 01/04/2010 Verifique este documento en www.sii.cl NOMBRE: R.U.T.: FECHA: RECINTO: FIRMA: El acuse de recibo que se declara en este acto, de acuerdo a lo dispuesto en la letra b) del art. 4°, y la letra c) del Art. 5° de la Ley 19.983, acredita que la entrega de mercadería(s) o servicio(s) prestado(s) ha(n) sido recibido(s). Total $ 3.436 Monto Neto Monto Exento $ 0 19 % I.V.A $ 18.084 Valores expresados en Pesos moneda legal Acuse de Recibo Comprobante de Pago Nro. Documento: Fecha Documento: Nro. Cuenta DHL: Total a Pagar: 09/08/2020 2006377 33 2006377 09/08/2020 46823 Otros Cargos $ 25.303 $ 46.823 RUT 76747588-8 $ 46.823 Total a Pagar $ 21.520 Tipo de Documento: FACTURA ELECTRONICA *33 2006377 09/08/2020 46823* Esta factura debe ser cancelada de manera inmediata a la recepción de la misma. AWB: 1882287934 DIPS:0232775629 Condiciones de Pago Medios de Pago Servipag, Transbank, Deposito o Transferencia Electrónica en Cta. Cte. N° 105580088, Banco Chile. Nota: Por avisos de pago o consultas dirigirse a CL.PAGOS@DHL.COM Sucursales Santiago Pudahuel: Avda El Bosque Norte 160, Dpto 6 Osvaldo Croquevielle 2007 5, Dpto 1-2 Santiago: Moneda 975, Dpto 3 Las Condes:",
+        "ground_truth": {
+          "Invoice Number": "2006377",
+          "Invoice Date": "2020-08-09",
+          "Due Date": "2020-08-09",
+          "Total Amount": "$46.823,00",
+          "Tax Amount (IVA)": "$18.084,00",
+          "Recipient Name": "WISELY SPA",
+          "Recipient Tax Number (RUT)": "76.747.588-8",
+          "Sender Name": "DHL EXPRESS (CHILE) LTDA",
+          "Sender Tax Number (RUT)": "86.966.100-7"
+        }
+      },
+      {
+        "question":"Para efectos de dar cumplimiento a lo dispuesto en el artículo 76 de la ley N° 16.744, la usuaria denunciará inmediatamente al organismo administrador al que se encuentra afiliada o adherida la respectiva empresa de servicios transitorios, la ocurrencia de cualquiera de los hechos indicados en la norma legal antes citada. Al mismo tiempo, deberá notificar el siniestro a la empresa de servicios transitorios. 817 Serán también de responsabilidad de la usuaria, las indemnizaciones a que se refiere el artículo 69 de la ley N° 16.744. Sin perjuicio de lo anterior, la empresa de servicios transitorios deberá constatar que el estado de salud del trabajador sea compatible con la actividad específica que desempeñará. 818 819 820 Normas Generales Art. 183-AC. En el caso de los trabajadores con discapacidad, el plazo máximo de duración del contrato de puesta a disposición de trabajadores de servicios transitorios establecido en el párrafo segundo del inciso primero del artículo 183-O, será de seis meses renovables.",
+        "ground_truth": {
+            "Invoice Number": "",
+            "Invoice Date": "",
+            "Due Date": "",
+            "Total Amount": "",
+            "Tax Amount (IVA)": "",
+            "Recipient Name": "",
+            "Recipient Tax Number (RUT)": "",
+            "Sender Name": "",
+            "Sender Tax Number (RUT)": ""
+          }
+      }
+]
