@@ -15,7 +15,7 @@ colorama
 comm
 debugpy
 decorator
-dotenv-python==0.0.1
+exceptiongroup
 executing
 frozenlist==1.4.0
 gitdb==4.0.10
@@ -53,10 +53,12 @@ pydeck==0.8.0
 Pygments
 Pympler==1.0.1
 python-dateutil
+python-dotenv
 pytz==2023.3
+pytz-deprecation-shim
 pyzmq
 referencing==0.30.2
-requests==2.31.0
+requests
 rich==13.5.2
 rpds-py==0.10.0
 six
